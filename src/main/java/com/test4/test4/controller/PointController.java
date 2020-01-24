@@ -25,7 +25,6 @@ import java.util.List;
 @CrossOrigin(origins = "http://localhost:3000", allowCredentials="true")
 public class PointController {
 
-
     @Autowired
     UserDataService userDataService;
 

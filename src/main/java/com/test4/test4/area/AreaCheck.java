@@ -1,8 +1,8 @@
 package com.test4.test4.area;
 
 public class AreaCheck {
-    private static final double[] possibleX = {-3, -2, -1,  0, 1, 2, 3, 4, 5};
-    private static final double[] possibleR = {0, 1, 2, 3, 4, 5};
+    private static final double[] possibleX = {-5, -4, -3, -2, -1,  0, 1, 2, 3};
+    private static final double[] possibleR = {0, 1, 2, 3};
     private static final double minY = -5;
     private static final double maxY = 5;
 

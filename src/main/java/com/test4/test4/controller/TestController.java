@@ -18,7 +18,6 @@ public class TestController {
 
     @Autowired
     UserDataService userDataService;
-
     @GetMapping("{login}")
     public String getUserBylogin(@PathVariable String login) {
 
